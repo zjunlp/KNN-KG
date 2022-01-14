@@ -25,7 +25,7 @@ Use the command below to add entities to BERT and train the entity embedding lay
 
 The parameters of Entity Embedding Layer trained will be used in the next `Entity prediction task`.
 
- ### Entity prediction task
+ ### Entity Prediction Task
 
 Use the command below to train the model to predict the correct entity in the masked position.
 
