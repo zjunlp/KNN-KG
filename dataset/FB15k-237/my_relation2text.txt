@@ -1,0 +1,1345 @@
+/location/country/form of government	form of government
+/tv/tv program/regular cast./tv/regular tv appearance/actor	actor
+/media common/netflix genre/titles	titles
+/award/award winner/awards won./award/award honor/award winner	award winner
+/soccer/football team/current roster./sports/sports team roster/position	position
+/sports/sports position/players./soccer/football roster position/team	team
+/government/political district/representatives./government/government position held/legislative sessions	legislative sessions
+/film/film/starring./film/performance/actor	actor
+/soccer/football team/current roster./soccer/football roster position/position	position
+/film/actor/film./film/performance/film	film
+/award/award nominated work/award nominations./award/award nomination/award	award
+/award/award category/nominees./award/award nomination/nominated for	nominated for
+/organization/membership organization/members./organization/organization membership/member	member
+/award/award nominee/award nominations./award/award nomination/award nominee	award nominee
+/olympics/olympic sport/olympic games contested	olympic games contested
+/music/performance role/regular performances./music/group membership/role	role
+/award/award category/winners./award/award honor/ceremony	ceremony
+/film/film/release date s./film/film regional release date/film release distribution medium	film release distribution medium
+/people/marriage union type/unions of this type./people/marriage/spouse	spouse
+/award/award winning work/awards won./award/award honor/award winner	award winner
+/film/film/release date s./film/film regional release date/film release region	film release region
+/film/film/language	language
+/music/artist/genre	genre
+/location/location/containedby	containedby
+/people/person/ethnicity	ethnicity
+/education/educational institution/students graduates./education/education/degree	degree
+/award/award category/nominees./award/award nomination/award nominee	award nominee
+/award/award ceremony/awards presented./award/award honor/award	award
+/location/location/contains	contains
+/organization/organization/headquarters./location/mailing address/country	country
+/people/person/profession	profession
+/film/film job/films with this crew job./film/film crew gig/film	film
+/people/profession/people with this profession	people with this profession
+/film/film costumer designer/costume design for film	costume design for film
+/location/statistical region/religions./location/religion percentage/religion	religion
+/film/film genre/films in this genre	films in this genre
+/tv/tv genre/programs	programs
+/award/award nominee/award nominations./award/award nomination/award	award
+/music/genre/artists	artists
+/influence/influence node/influenced by	influenced by
+/education/educational institution/students graduates./education/education/student	student
+/organization/organization member/member of./organization/organization membership/organization	organization
+/people/person/place of birth	place of birth
+/common/topic/webpage./common/webpage/category	category
+/media common/netflix title/netflix genres	netflix genres
+/sports/sports position/players./american football/football historical roster position/team	team
+/film/film/other crew./film/film crew gig/film crew role	film crew role
+/award/award ceremony/awards presented./award/award honor/award winner	award winner
+/film/film/country	country
+/olympics/olympic sport/athletes./olympics/olympic athlete affiliation/country	country
+/award/award winning work/awards won./award/award honor/award	award
+/base/schemastaging/tv actor extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/program	program
+/film/film/genre	genre
+/award/award nominated work/award nominations./award/award nomination/award nominee	award nominee
+/film/film distributor/films distributed./film/film film distributor relationship/film	film
+/location/statistical region/rent50 2./measurement unit/dated money value/currency	currency
+/film/film/estimated budget./measurement unit/dated money value/currency	currency
+/location/administrative division/second level division of	second level division of
+/government/legislative session/members./government/government position held/district represented	district represented
+/sports/sports team/roster./american football/football historical roster position/position s	position s
+/government/government office category/officeholders./government/government position held/jurisdiction of office	jurisdiction of office
+/award/award nominee/award nominations./award/award nomination/nominated for	nominated for
+/people/deceased person/place of death	place of death
+/music/group member/instruments played	instruments played
+/film/production company/films	films
+/sports/pro athlete/teams./sports/sports team roster/team	team
+/base/schemastaging/athlete extra/salary./base/schemastaging/athlete salary/team	team
+/music/artist/track contributions./music/track contribution/role	role
+/organization/organization/acquired by./business/acquisition/acquiring company	acquiring company
+/music/instrument/instrumentalists	instrumentalists
+/military/military combatant/military conflicts./military/military combatant group/conflict	conflict
+/people/person/education./education/education/institution	institution
+/award/award category/winners./award/award honor/honored for	honored for
+/people/person/gender	gender
+/business/job title/people with this title./business/employment tenure/company	company
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	participant
+/fictional universe/fictional character/occupation	occupation
+/education/field of study/students majoring./education/education/institution	institution
+/business/business operation/industry	industry
+/award/award category/winners./award/award honor/award winner	award winner
+/award/award winner/awards won./award/award honor/ceremony	ceremony
+/location/hud foreclosure area/hhuniv./measurement unit/dated integer/source	source
+/location/us county/hud county place	hud county place
+/location/statistical region/gni in ppp dollars./measurement unit/dated money value/currency	currency
+/people/person/nationality	nationality
+/sports/sports team/roster./baseball/baseball roster position/position	position
+/music/performance role/regular performances./music/group membership/member	member
+/base/nobelprizes/nobel prize winner/nobel honor./base/nobelprizes/nobel honor/subject area	subject area
+/people/cause of death/people	people
+/tv/tv program/languages	languages
+/user/alexander/philosophy/subject/philosophers	philosophers
+/common/annotation category/annotations./common/webpage/topic	topic
+/music/genre/parent genre	parent genre
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant	participant
+/influence/influence node/influenced	influenced
+/location/country/capital	capital
+/film/special film performance type/film performance type./film/performance/film	film
+/olympics/olympic participating country/athletes./olympics/olympic athlete affiliation/sport	sport
+/film/writer/film	film
+/soccer/football team/current roster./sports/sports team roster/player	player
+/film/film/starring./film/performance/character	character
+/location/hud county place/place	place
+/location/country/administrative divisions	administrative divisions
+/organization/organization/leadership./organization/leadership/role	role
+/music/performance role/guest performances./music/recording contribution/performance role	performance role
+/location/location/adjoin s./location/adjoining relationship/adjoins	adjoins
+/film/film subject/films	films
+/base/schemastaging/person extra/net worth./measurement unit/dated money value/currency	currency
+/government/form of government/countries	countries
+/education/educational institution/colors	colors
+/base/aareas/schema/administrative area/administrative parent	administrative parent
+/government/political appointer/appointees./government/government position held/basic title	basic title
+/organization/organization/sectors	sectors
+/organization/role/leaders./organization/leadership/organization	organization
+/location/location/people born here	people born here
+/medicine/risk factor/diseases	diseases
+/broadcast/tv station owner/tv stations	tv stations
+/government/legislative session/members./government/government position held/legislative sessions	legislative sessions
+/olympics/olympic games/sports	sports
+/people/person/places lived./people/place lived/location	location
+/government/legislative session/members./government/government position held/governmental body	governmental body
+/location/hud foreclosure area/estimated number foreclosures./measurement unit/dated integer/source	source
+/award/award category/disciplines or subjects	disciplines or subjects
+/sports/professional sports team/draft picks./sports/sports league draft pick/school	school
+/olympics/olympic participating country/medals won./olympics/olympic medal honor/olympics	olympics
+/language/human language/countries spoken in	countries spoken in
+/symbols/namesake/named after	named after
+/organization/organization/phone number./common/phone number/category	category
+/award/award winner/awards won./award/award honor/honored for	honored for
+/people/ethnicity/people	people
+/fictional universe/character occupation/characters with this occupation	characters with this occupation
+/architecture/museum/type of museum	type of museum
+/olympics/olympic participating country/athletes./olympics/olympic athlete affiliation/olympics	olympics
+/olympics/olympic participating country/medals won./olympics/olympic medal honor/medal	medal
+/film/film/other crew./film/film crew gig/crewmember	crewmember
+/olympics/olympic games/athletes./olympics/olympic athlete affiliation/sport	sport
+/music/performance role/track performances./music/track contribution/role	role
+/education/school category/schools of this kind	schools of this kind
+/sports/sports team/roster./sports/sports team roster/position	position
+/metropolitan transit/transit service type/transit lines	transit lines
+/music/record label/artist	artist
+/location/statistical region/rent50 4./measurement unit/dated money value/currency	currency
+/base/popstra/celebrity/dated./base/popstra/dated/participant	participant
+/base/locations/continents/countries within	countries within
+/business/employer/employees./business/employment tenure/title	title
+/sports/sports league draft/picks./sports/sports league draft pick/school	school
+/music/musical group/member./music/group membership/role	role
+/sports/sports team/sport	sport
+/film/producer/films executive produced	films executive produced
+/education/educational institution campus/educational institution	educational institution
+/sports/sports team/league./sports/sports league participation/league	league
+/american football/football team/current roster./american football/football roster position/position	position
+/location/location/events	events
+/people/person/religion	religion
+/organization/organization/headquarters./location/mailing address/citytown	citytown
+/film/music contributor/film	film
+/music/performance role/track performances./music/track contribution/contributor	contributor
+/film/film/produced by	produced by
+/religion/religious practice/practice of	practice of
+/architecture/museum/address./location/mailing address/citytown	citytown
+/film/film location/featured in films	featured in films
+/organization/organization/founders	founders
+/tv/special tv performance type/starring performances./tv/regular tv appearance/actor	actor
+/astronomy/celestial object/category	category
+/award/award winner/awards won./award/award honor/award	award
+/music/artist/label	label
+/medicine/notable person with medical condition/condition	condition
+/film/producer/film	film
+/people/person/spouse s./people/marriage/type of union	type of union
+/film/film/production companies	production companies
+/location/country/second level divisions	second level divisions
+/sports/sports team/roster./soccer/football roster position/position	position
+/film/film/directed by	directed by
+/sports/pro athlete/teams./soccer/football roster position/team	team
+/food/ingredient/compatible with dietary restrictions	compatible with dietary restrictions
+/language/human language/main country	main country
+/sports/sports team/location	location
+/location/statistical region/rent50 1./measurement unit/dated money value/currency	currency
+/base/culturalevent/event/entity involved	entity involved
+/film/film festival event/films	films
+/base/newsevents/news reported event/news report s./base/newsevents/news report/news reporting organisation	news reporting organisation
+/education/educational degree/people with this degree./education/education/institution	institution
+/film/film/distributors./film/film film distributor relationship/film distribution medium	film distribution medium
+/tv/tv program/tv producer./tv/tv producer term/producer type	producer type
+/film/film/distributors./film/film film distributor relationship/distributor	distributor
+/sports/sport/teams	teams
+/music/performance role/regular performances./music/group membership/group	group
+/organization/organization/phone number./common/phone number/service location	service location
+/sports/sports position/players./ice hockey/hockey roster position/team	team
+/government/politician/government positions held./government/government position held/legislative sessions	legislative sessions
+/sports/sports team location/teams	teams
+/sports/sports team/colors	colors
+/people/deceased person/cause of death	cause of death
+/sports/sports position/players./basketball/basketball roster position/team	team
+/base/popstra/celebrity/shops at./base/popstra/shopping choice/company	company
+/sports/professional sports team/draft picks./sports/sports league draft pick/draft	draft
+/award/award nominated work/award nominations./award/award nomination/nominated for	nominated for
+/baseball/baseball team/team stats./baseball/baseball team stats/season	season
+/user/alexander/philosophy/philosopher/interests	interests
+/time/time zone/locations in this time zone	locations in this time zone
+/people/person/languages	languages
+/american football/football player/position s	position s
+/education/educational institution/students graduates./education/education/major field of study	major field of study
+/film/director/film	film
+/american football/football team/historical roster./sports/sports team roster/position	position
+/award/award ceremony/awards presented./award/award honor/honored for	honored for
+/olympics/olympic sport/athletes./olympics/olympic athlete affiliation/olympics	olympics
+/film/film/costume design by	costume design by
+/film/film format/film format	film format
+/film/film/featured film locations	featured film locations
+/tv/tv program/genre	genre
+/organization/endowed organization/endowment./measurement unit/dated money value/currency	currency
+/film/film/written by	written by
+/baseball/baseball player/batting stats./baseball/batting statistics/team	team
+/tv/tv producer/programs produced./tv/tv producer term/producer type	producer type
+/government/politician/government positions held./government/government position held/office position or title	office position or title
+/base/twinnedtowns/twinned town/twinned with./base/twinnedtowns/town twinning/twinned towns	twinned towns
+/location/hud county place/county	county
+/sports/pro athlete/teams./sports/sports team roster/position	position
+/education/educational degree/people with this degree./education/education/major field of study	major field of study
+/base/petbreeds/dog breed/cities where this dog is popular./base/petbreeds/dog city relationship/cities	cities
+/film/film story contributor/film story credits	film story credits
+/base/schemastaging/organization extra/phone number./base/schemastaging/phone sandbox/contact category	contact category
+/base/saturdaynightlive/snl cast member/seasons./base/saturdaynightlive/snl season tenure/cast members	cast members
+/film/film/film format	film format
+/tv/tv actor/starring roles./tv/regular tv appearance/series	series
+/film/film/sequel	sequel
+/film/film/music	music
+/sports/sports team/roster./american football/football roster position/position	position
+/olympics/olympic medal/medal winners./olympics/olympic medal honor/country	country
+/user/tsegaran/random/taxonomy subject/entry./user/tsegaran/random/taxonomy entry/taxonomy	taxonomy
+/aviation/airport/airlines./aviation/airline airport presence/cities served	cities served
+/celebrities/celebrity/celebrity friends./celebrities/friendship/friend	friend
+/location/hud foreclosure area/estimated number of mortgages./measurement unit/dated integer/source	source
+/base/popstra/religion/membership./base/popstra/religion choice/member	member
+/base/x2010fifaworldcupsouthafrica/world cup squad/current world cup squad./base/x2010fifaworldcupsouthafrica/current world cup squad/current club	current club
+/base/popstra/location/vacationers./base/popstra/vacation choice/vacationer	vacationer
+/medicine/medical specialty/diseases treated	diseases treated
+/sports/sports position/players./sports/sports team roster/player	player
+/law/invention/inventor	inventor
+/location/hud foreclosure area/total residential addresses./measurement unit/dated integer/source	source
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	participant
+/location/administrative division/capital./location/administrative division capital relationship/capital	capital
+/protected sites/natural or cultural site designation/sites./protected sites/natural or cultural site listing/listed site	listed site
+/baseball/baseball team/historical roster./baseball/baseball historical roster position/player	player
+/soccer/football player/current team./soccer/football roster position/team	team
+/base/popstra/celebrity/vacations in./base/popstra/vacation choice/location	location
+/olympics/olympic games/medals awarded./olympics/olympic medal honor/country	country
+/people/profession/specializations	specializations
+/computer/software/software genre	software genre
+/education/educational institution/school type	school type
+/base/popstra/organization/supporter./base/popstra/support/supporter	supporter
+/award/ranked list/ranked list items./award/ranking/item	item
+/film/film crewmember/films crewed./film/film crew gig/film	film
+/sports/sport/pro athletes./sports/pro sports played/athlete	athlete
+/soccer/football team/current roster./soccer/football roster position/player	player
+/award/hall of fame/inductees./award/hall of fame induction/inductee	inductee
+/base/biblioness/bibs location/state	state
+/education/university/local tuition./measurement unit/dated money value/currency	currency
+/business/business operation/revenue./measurement unit/dated money value/currency	currency
+/sports/sports position/players./american football/football roster position/team	team
+/sports/sports position/players./sports/sports team roster/team	team
+/business/business operation/retained earnings./measurement unit/dated money value/currency	currency
+/tv/tv producer type/tv producers of this type./tv/tv producer term/producer	producer
+/film/film/film set decoration by	film set decoration by
+/military/military conflict/combatants./military/military combatant group/combatants	combatants
+/sports/sports league/teams./sports/sports league participation/team	team
+/base/biblioness/bibs location/country	country
+/film/editor/film	film
+/music/group member/membership./music/group membership/role	role
+/olympics/olympic games/athletes./olympics/olympic athlete affiliation/country	country
+/organization/organization/parent./organization/organization relationship/parent	parent
+/american football/football team/historical roster./american football/football historical roster position/position s	position s
+/people/person/employment history./business/employment tenure/title	title
+/base/popstra/product/sold to./base/popstra/product choice/consumer	consumer
+/tv/tv program creator/programs created	programs created
+/tv/tv program/tv producer./tv/tv producer term/producer	producer
+/business/employer/employees./business/employment tenure/person	person
+/location/administrative division/country	country
+/film/film/executive produced by	executive produced by
+/location/statistical region/rent50 3./measurement unit/dated money value/currency	currency
+/food/food/nutrients./food/nutrition fact/nutrient	nutrient
+/business/industry/companies	companies
+/music/group member/membership./music/group membership/group	group
+/location/statistical region/gdp nominal per capita./measurement unit/dated money value/currency	currency
+/education/field of study/students majoring./education/education/degree	degree
+/film/special film performance type/film performance type./film/performance/actor	actor
+/tv/tv personality/tv regular appearances./tv/tv regular personal appearance/appearance type	appearance type
+/education/fraternity sorority/colleges and universities	colleges and universities
+/education/field of study/students majoring./education/education/student	student
+/award/award winning work/awards won./award/award honor/honored for	honored for
+/baseball/baseball team/current roster./baseball/baseball roster position/position	position
+/people/person/children	children
+/sports/sports team/roster./basketball/basketball roster position/position	position
+/organization/organization/headquarters./location/mailing address/state province region	state province region
+/base/aareas/schema/administrative area/capital	capital
+/location/hud foreclosure area/total 90 day vacant residential addresses./measurement unit/dated integer/source	source
+/base/aareas/schema/administrative area/administrative children	administrative children
+/tv/tv producer/programs produced./tv/tv producer term/program	program
+/location/country/first level divisions	first level divisions
+/business/business operation/liabilities./measurement unit/dated money value/currency	currency
+/film/personal film appearance type/film appearances./film/personal film appearance/person	person
+/sports/sports league draft/picks./sports/sports league draft pick/team	team
+/travel/travel destination/tourist attractions	tourist attractions
+/base/americancomedy/comedy group/members./base/americancomedy/comedy group membership/member	member
+/education/educational institution/campuses	campuses
+/film/film/distributors./film/film film distributor relationship/region	region
+/travel/travel destination/climate./travel/travel destination monthly climate/month	month
+/business/business operation/cash./measurement unit/dated money value/currency	currency
+/government/governmental body/sessions	sessions
+/location/statistical region/rent50 0./measurement unit/dated money value/currency	currency
+/royalty/order of chivalry/recipients./royalty/chivalric order membership/recipient	recipient
+/military/military commander/military commands./military/military command/military combatant	military combatant
+/film/film/subjects	subjects
+/medicine/disease/notable people with this condition	notable people with this condition
+/music/musical group/member./music/group membership/member	member
+/education/educational institution/students graduates./education/education/specialization	specialization
+/base/schemastaging/organization extra/phone number./base/schemastaging/phone sandbox/service location	service location
+/tv/tv producer type/tv producers of this type./tv/tv producer term/program	program
+/government/government office category/officeholders./government/government position held/office holder	office holder
+/sports/sports position/players./baseball/baseball roster position/team	team
+/people/ethnicity/geographic distribution	geographic distribution
+/film/actor/film./film/performance/special performance type	special performance type
+/military/military combatant/military conflicts./military/military combatant group/combatants	combatants
+/film/film/personal appearances./film/personal film appearance/person	person
+/base/schemastaging/organization extra/phone number./base/schemastaging/phone open times/time zone	time zone
+/location/location/time zones	time zones
+/basketball/basketball team/roster./sports/sports team roster/position	position
+/film/film/story by	story by
+/tv/tv program/recurring writers./tv/tv program writer relationship/writer	writer
+/base/petbreeds/city with dogs/top breeds./base/petbreeds/dog city relationship/dog breed	dog breed
+/transportation/road/major cities	major cities
+/basketball/basketball position/player roster position./basketball/basketball roster position/team	team
+/education/educational degree/people with this degree./education/education/specialization	specialization
+/base/schemastaging/person extra/net worth./measurement unit/dated money value/source	source
+/olympics/olympic games/participating countries	participating countries
+/base/marchmadness/ncaa basketball team/ncaa tournament seeds./base/marchmadness/ncaa tournament seed/tournament	tournament
+/film/film distribution medium/films distributed in this medium./film/film film distributor relationship/film	film
+/education/educational institution/sexes accepted./education/gender enrollment/sex	sex
+/government/governmental body/members./government/government position held/office holder	office holder
+/tv/tv network/programs./tv/tv network duration/program	program
+/base/contractbridge/bridge player/first place finish./base/contractbridge/bridge tournament standings/second place	second place
+/user/tsegaran/random/subject taxonomy/entry./user/tsegaran/random/taxonomy entry/subject	subject
+/computer/operating system/parent os	parent os
+/sports/sports team/roster./sports/sports team roster/player	player
+/basketball/basketball team/roster./basketball/basketball roster position/position	position
+/military/military combatant/military commanders./military/military command/military commander	military commander
+/sports/pro athlete/teams./basketball/basketball historical roster position/team	team
+/people/person/employment history./business/employment tenure/company	company
+/music/artist/origin	origin
+/people/marriage union type/unions of this type./people/marriage/location of ceremony	location of ceremony
+/royalty/royal line/kingdom s ruled	kingdom s ruled
+/medicine/disease/causes	causes
+/american football/football player/former teams./sports/sports team roster/team	team
+/medicine/drug ingredient/more general ingredient	more general ingredient
+/tv/tv writer/tv programs./tv/tv program writer relationship/tv program	tv program
+/time/event/locations	locations
+/base/x2010fifaworldcupsouthafrica/world cup squad/current world cup squad./base/x2010fifaworldcupsouthafrica/current world cup squad/players	players
+/celebrities/celebrity/sexual relationships./celebrities/romantic relationship/celebrity	celebrity
+/tv/tv program/spun off from	spun off from
+/base/popstra/celebrity/lived with./base/popstra/lived with/participant	participant
+/government/political party/politicians in this party./government/political party tenure/politician	politician
+/education/university/domestic tuition./measurement unit/dated money value/currency	currency
+/government/legislative session/members./government/government position held/office holder	office holder
+/government/politician/party./government/political party tenure/party	party
+/people/cause of death/includes causes of death	includes causes of death
+/government/politician/government positions held./government/government position held/appointed by	appointed by
+/award/hall of fame/discipline	discipline
+/organization/non profit organization/registered with./organization/non profit registration/registering agency	registering agency
+/award/award category/presenting organization	presenting organization
+/base/fight/crime type/people convicted of this crime./base/crime/criminal conviction/guilty of	guilty of
+/base/saints/saint/venerated in	venerated in
+/medicine/icd 9 cm classification/parent classification	parent classification
+/film/film art director/films art directed	films art directed
+/education/educational institution/subsidiary or constituent schools	subsidiary or constituent schools
+/film/actor/dubbing performances./film/dubbing performance/film	film
+/soccer/football league/teams./soccer/football league participation/team	team
+/film/film character/portrayed in films./film/performance/film	film
+/location/country/languages spoken	languages spoken
+/education/educational institution/students graduates./education/education/minor	minor
+/user/ktrueman/default domain/international organization/member states	member states
+/tv/tv program/regular personal appearances./tv/tv regular personal appearance/person	person
+/award/award winning work/awards won./award/award honor/ceremony	ceremony
+/american football/football team/current roster./sports/sports team roster/position	position
+/soccer/football player/current team./sports/sports team roster/team	team
+/olympics/olympic games/medals awarded./olympics/olympic medal honor/medal	medal
+/organization/organization/legal structure	legal structure
+/base/schemastaging/athlete extra/salary./base/schemastaging/athlete salary/currency	currency
+/location/symbol of administrative division/official symbol of./location/location symbol relationship/administrative division	administrative division
+/award/ranked item/appears in ranked lists./award/ranking/list	list
+/people/person/education./education/education/major field of study	major field of study
+/film/film set designer/film sets designed	film sets designed
+/government/political appointer/appointees./government/government position held/jurisdiction of office	jurisdiction of office
+/user/jg/default domain/olympic games/sports	sports
+/education/educational degree/people with this degree./education/education/minor	minor
+/sports/sports team/roster./soccer/football roster position/player	player
+/people/person/sibling s./people/sibling relationship/sibling	sibling
+/base/marchmadness/ncaa basketball tournament/seeds./base/marchmadness/ncaa tournament seed/team	team
+/tv/tv program/original network./tv/tv network duration/network	network
+/music/artist/contribution./music/recording contribution/performance role	performance role
+/sports/sports position/players./sports/sports team roster/position	position
+/film/film character/portrayed in films./film/performance/actor	actor
+/business/job title/people with this title./business/employment tenure/person	person
+/medicine/disease/parent disease	parent disease
+/government/politician/government positions held./government/government position held/basic title	basic title
+/people/family/country	country
+/sports/sports team/roster./baseball/baseball historical roster position/player	player
+/tv/special tv performance type/episode performances./tv/tv guest role/actor	actor
+/education/educational institution/parent institution	parent institution
+/basketball/basketball position/player roster position./sports/sports team roster/team	team
+/music/genre/subgenre	subgenre
+/government/governmental jurisdiction/governing officials./government/government position held/basic title	basic title
+/sports/sports position/players./american football/football historical roster position/position s	position s
+/book/school or movement/associated authors	associated authors
+/people/profession/specialization of	specialization of
+/award/award category/category of	category of
+/base/bioventurist/bv medical condition/company involved	company involved
+/base/popstra/company/product endorser./base/popstra/paid support/endorser	endorser
+/film/film/cinematography	cinematography
+/olympics/olympic participating country/olympics participated in	olympics participated in
+/film/film/film production design by	film production design by
+/organization/organization/companies acquired./business/acquisition/company acquired	company acquired
+/tv/tv program/country of origin	country of origin
+/people/person/parents	parents
+/government/political appointer/appointees./government/government position held/office holder	office holder
+/base/americancomedy/comedy genre/comedians in this genre	comedians in this genre
+/language/human language/writing system	writing system
+/film/film/edited by	edited by
+/tv/tv personality/tv regular appearances./tv/tv regular personal appearance/program	program
+/award/award discipline/awards in this discipline	awards in this discipline
+/business/consumer company/products./business/company product relationship/consumer product	consumer product
+/education/field of study/students majoring./education/education/major field of study	major field of study
+/protected sites/listed site/designation as natural or cultural site./protected sites/natural or cultural site listing/designation	designation
+/tv/tv actor/starring roles./tv/regular tv appearance/special performance type	special performance type
+/language/language writing system/languages	languages
+/military/military conflict/commanders./military/military command/military combatant	military combatant
+/music/performance role/guest performances./music/recording contribution/contributor	contributor
+/sports/sports team/roster./ice hockey/hockey roster position/position	position
+/education/educational degree/people with this degree./education/education/student	student
+/location/us county/county seat	county seat
+/people/cause of death/parent cause of death	parent cause of death
+/finance/currency/countries used	countries used
+/film/film/film festivals	film festivals
+/government/government office or title/office holders./government/government position held/office holder	office holder
+/people/person/spouse s./people/marriage/spouse	spouse
+/film/film/runtime./film/film cut/film release region	film release region
+/location/capital of administrative division/capital of./location/administrative division capital relationship/administrative division	administrative division
+/user/coco/science/concepts theories/parent concept	parent concept
+/government/governmental jurisdiction/governing officials./government/government position held/governmental body	governmental body
+/broadcast/artist/content	content
+/basketball/basketball team/historical roster./sports/sports team roster/player	player
+/olympics/olympic medal/medal winners./olympics/olympic medal honor/olympics	olympics
+/military/military person/participated in conflicts	participated in conflicts
+/base/aareas/schema/administrative area/administrative area type	administrative area type
+/food/diet follower/follows diet	follows diet
+/computer/computer/manufacturer	manufacturer
+/influence/influence node/peers./influence/peer relationship/peers	peers
+/government/governmental body/members./government/government position held/legislative sessions	legislative sessions
+/olympics/olympic participating country/athletes./olympics/olympic athlete affiliation/athlete	athlete
+/user/hangy/default domain/sports team gender/gender	gender
+/fictional universe/fictional character/species	species
+/base/schemastaging/organization extra/phone number./base/schemastaging/phone sandbox/service language	service language
+/base/activism/activism issue/activists	activists
+/organization/organization type/organizations of this type	organizations of this type
+/organization/organization/place founded	place founded
+/award/award/category	category
+/baseball/baseball player/former teams./sports/sports team roster/team	team
+/government/legislative session/members./government/government position held/jurisdiction of office	jurisdiction of office
+/tv/tv program/regular cast./tv/regular tv appearance/special performance type	special performance type
+/base/eating/practicer of diet/diet	diet
+/tv/tv program/program creator	program creator
+/people/deceased person/place of burial	place of burial
+/fictional universe/fictional character/ethnicity	ethnicity
+/government/political district/representatives./government/government position held/jurisdiction of office	jurisdiction of office
+/olympics/olympic athlete/medals won./olympics/olympic medal honor/medal	medal
+/people/family/members	members
+/film/film/release date s./film/film regional release date/film regional debut venue	film regional debut venue
+/ice hockey/hockey team/current roster./sports/sports team roster/position	position
+/film/person or entity appearing in film/films./film/personal film appearance/type of appearance	type of appearance
+/location/administrative division/first level division of	first level division of
+/location/statistical region/gdp real./measurement unit/adjusted money value/adjustment currency	adjustment currency
+/organization/organization/child./organization/organization relationship/child	child
+/base/x2010fifaworldcupsouthafrica/world cup squad/current world cup squad./base/x2010fifaworldcupsouthafrica/current world cup squad/position	position
+/business/business operation/assets./measurement unit/dated money value/currency	currency
+/government/governmental body/members./government/government position held/district represented	district represented
+/music/group member/vocal range	vocal range
+/government/political appointer/appointees./government/government position held/governmental body	governmental body
+/olympics/olympic games/athletes./olympics/olympic athlete affiliation/athlete	athlete
+/geography/lake/cities	cities
+/time/event/includes event	includes event
+/time/event/instance of recurring event	instance of recurring event
+/venture capital/venture funded company/venture investors./venture capital/venture investment/investor	investor
+/military/military person/service./military/military service/military force	military force
+/government/governmental jurisdiction/official symbols./location/location symbol relationship/symbol	symbol
+/tv/non character role/tv regular personal appearances./tv/tv regular personal appearance/person	person
+/base/americancomedy/impersonated celebrity/impersonated by	impersonated by
+/sports/pro athlete/teams./ice hockey/hockey previous roster position/team	team
+/government/legislative session/members./government/government position held/office position or title	office position or title
+/government/government office category/officeholders./government/government position held/district represented	district represented
+/business/business operation/operating income./measurement unit/dated money value/currency	currency
+/soccer/football position/players	players
+/people/ethnicity/languages spoken	languages spoken
+/american football/football team/historical roster./american football/football historical roster position/player	player
+/ice hockey/hockey team/current roster./ice hockey/hockey roster position/position	position
+/base/localfood/seasonal month/produce available./base/localfood/produce availability/produce	produce
+/base/americancomedy/celebrity impressionist/celebrities impersonated	celebrities impersonated
+/military/rank/used by services./military/military service/military force	military force
+/organization/organization/organization type	organization type
+/medicine/symptom/symptom of	symptom of
+/education/field of study/subdiscipline of	subdiscipline of
+/education/university/fraternities and sororities	fraternities and sororities
+/government/political appointer/appointees./government/government position held/office position or title	office position or title
+/government/government office or title/office holders./government/government position held/legislative sessions	legislative sessions
+/food/dietary restriction/compatible ingredients	compatible ingredients
+/olympics/olympic athlete/country./olympics/olympic athlete affiliation/olympics	olympics
+/location/statistical region/places exported to./location/imports and exports/exported to	exported to
+/business/board member/organization board memberships./organization/organization board membership/organization	organization
+/olympics/olympic athlete/medals won./olympics/olympic medal honor/medalist	medalist
+/film/film production designer/films production designed	films production designed
+/business/business operation/net profit./measurement unit/dated money value/currency	currency
+/film/cinematographer/film	film
+/military/military combatant/force deployments./military/force strength/combatant	combatant
+/government/government office or title/office holders./government/government position held/appointed by	appointed by
+/computer/programming language/influenced	influenced
+/location/statistical region/gdp nominal./measurement unit/dated money value/currency	currency
+/education/field of study/students majoring./education/education/specialization	specialization
+/basketball/basketball position/player roster position./basketball/basketball roster position/player	player
+/organization/organization scope/organizations with this scope	organizations with this scope
+/sports/sports award winner/awards./sports/sports award/award	award
+/cvg/gameplay mode/games with this mode	games with this mode
+/travel/travel destination/how to get here./travel/transportation/mode of transportation	mode of transportation
+/computer/programming language paradigm/languages	languages
+/baseball/baseball player/position s	position s
+/base/fashionmodels/fashion model/hair color	hair color
+/military/armed force/personnel./military/military service/rank	rank
+/business/business operation/current assets./measurement unit/dated money value/currency	currency
+/music/album/genre	genre
+/media common/media genre/parent genre	parent genre
+/base/biblioness/bibs location/city	city
+/sports/sports league season/awards./sports/sports award/award winner	award winner
+/baseball/baseball team/current roster./sports/sports team roster/position	position
+/government/governmental jurisdiction/governing officials./government/government position held/office holder	office holder
+/location/neighborhood/neighborhood of	neighborhood of
+/business/brand/owner s./business/company brand relationship/company	company
+/film/film/starring./film/performance/special performance type	special performance type
+/people/person/education./education/education/degree	degree
+/user/mt/default domain/metabolite/associated disorder	associated disorder
+/olympics/olympic athlete/country./olympics/olympic athlete affiliation/country	country
+/location/country/official language	official language
+/user/coco/science/concepts theories/child concept	child concept
+/film/film/runtime./film/film cut/type of film cut	type of film cut
+/location/location/partially contains	partially contains
+/base/thoroughbredracing/thoroughbred racehorse origin/horses from this location	horses from this location
+/tv/tv series season/regular cast./tv/regular tv appearance/series	series
+/medicine/disease/treatments	treatments
+/computer/programming language/influenced by	influenced by
+/base/fight/crime type/people convicted of this crime./base/crime/criminal conviction/convicted person	convicted person
+/base/popstra/celebrity/supporter./base/popstra/support/supported organization	supported organization
+/base/popstra/celebrity/religion./base/popstra/religion choice/religion	religion
+/media common/media genre/child genres	child genres
+/film/film job/films with this crew job./film/film crew gig/crewmember	crewmember
+/american football/football player/former teams./sports/sports team roster/position	position
+/time/recurring event/instances	instances
+/base/thoroughbredracing/thoroughbred racehorse/sex	sex
+/film/film/film art direction by	film art direction by
+/medicine/disease/medical specialties	medical specialties
+/people/person/spouse s./people/marriage/location of ceremony	location of ceremony
+/education/university/international tuition./measurement unit/dated money value/currency	currency
+/film/person or entity appearing in film/films./film/personal film appearance/film	film
+/american football/football player/former teams./american football/football historical roster position/team	team
+/tv/tv series season/series	series
+/government/politician/government positions held./government/government position held/governmental body	governmental body
+/broadcast/genre/content	content
+/award/hall of fame inductee/hall of fame inductions./award/hall of fame induction/hall of fame	hall of fame
+/baseball/baseball player/current team./sports/sports team roster/position	position
+/language/human language/language family	language family
+/medicine/disease cause/diseases	diseases
+/geography/island/body of water	body of water
+/olympics/olympic sport/athletes./olympics/olympic athlete affiliation/athlete	athlete
+/base/academyawards/host of oscar show/oscar show hosted	oscar show hosted
+/government/political party/ideology	ideology
+/symbols/name source/namesakes	namesakes
+/film/film festival/individual festivals	individual festivals
+/base/events/performer/performances./base/events/performance/performer	performer
+/baseball/baseball team/historical roster./sports/sports team roster/player	player
+/government/governmental body/members./government/government position held/appointed by	appointed by
+/film/film crewmember/films crewed./film/film crew gig/film crew role	film crew role
+/base/parody/parodied subject/parodies	parodies
+/base/activism/activist/area of activism	area of activism
+/organization/organization founder/organizations founded	organizations founded
+/aviation/aircraft owner/aircraft fleet composition./aviation/aircraft ownership count/aircraft model	aircraft model
+/book/author/school or movement	school or movement
+/government/government office category/officeholders./government/government position held/appointed by	appointed by
+/american football/football team/historical roster./sports/sports team roster/player	player
+/base/fight/crime type/victims of this crime type	victims of this crime type
+/olympics/olympic participating country/medals won./olympics/olympic medal honor/medalist	medalist
+/cvg/cvg publisher/games published	games published
+/film/film character/portrayed in films dubbed./film/dubbing performance/language	language
+/medicine/drug ingredient/active moiety of drug	active moiety of drug
+/user/alexander/philosophy/philosopher/era	era
+/government/government office category/officeholders./government/government position held/legislative sessions	legislative sessions
+/user/alexander/philosophy/era/philosophers	philosophers
+/location/country/currency used	currency used
+/user/alexander/misc/murdered person/place murdered	place murdered
+/religion/religion/deities	deities
+/film/film/dubbing performances./film/dubbing performance/actor	actor
+/sports/pro athlete/teams./american football/football historical roster position/team	team
+/education/field of study/subdisciplines	subdisciplines
+/military/military combatant/force deployments./military/force strength/military conflict	military conflict
+/dataworld/gardening hint/split to	split to
+/broadcast/content/producer	producer
+/ice hockey/hockey team/historical roster./ice hockey/hockey previous roster position/player	player
+/celebrities/sexual orientation/celebrities./celebrities/sexual orientation phase/celebrity	celebrity
+/base/popstra/celebrity/endorsements./base/popstra/paid support/company	company
+/base/localfood/produce/availability./base/localfood/produce availability/seasonal months	seasonal months
+/film/film/dubbing performances./film/dubbing performance/language	language
+/medicine/disease/risk factors	risk factors
+/government/political district/representatives./government/government position held/governmental body	governmental body
+/media common/dedicator/dedications./media common/dedication/dedicated to	dedicated to
+/base/parody/parody/parody of	parody of
+/film/actor/film./film/performance/character	character
+/location/location/partially containedby	partially containedby
+/people/place of interment/interred here	interred here
+/business/company type/companies of this type	companies of this type
+/sports/sports team/roster./basketball/basketball historical roster position/player	player
+/military/military conflict/military personnel involved	military personnel involved
+/sports/sports award type/winners./sports/sports award/award winner	award winner
+/medicine/disease/includes diseases	includes diseases
+/fictional universe/fictional character/powers or abilities	powers or abilities
+/award/award presenting organization/award categories presented	award categories presented
+/business/business operation/current liabilities./measurement unit/dated money value/currency	currency
+/olympics/olympic games/medals awarded./olympics/olympic medal honor/medalist	medalist
+/basketball/basketball player/position s	position s
+/language/language family/languages	languages
+/tv/tv writer/episodes written	episodes written
+/military/military conflict/force strengths./military/force strength/combatant	combatant
+/computer/programming language/language paradigms	language paradigms
+/film/film/prequel	prequel
+/base/thoroughbredracing/thoroughbred racehorse sex/horses of this sex	horses of this sex
+/soccer/football player/current team./soccer/football roster position/position	position
+/base/americancomedy/comedy group member/belongs to./base/americancomedy/comedy group membership/group	group
+/medicine/medical treatment/used to treat	used to treat
+/sports/pro athlete/teams./soccer/football roster position/position	position
+/user/mt/default domain/metabolite/biofluid location	biofluid location
+/medicine/disease/symptoms	symptoms
+/base/localfood/seasonal month/produce available./base/localfood/produce availability/seasonal months	seasonal months
+/food/dish/ingredients	ingredients
+/user/alexbl/honorary title/titled person/honorary title./user/alexbl/honorary title/honorary title holding/honorary title	honorary title
+/travel/travel destination/how to get here./travel/transportation/transport operator	transport operator
+/tv/tv character/appeared in tv program./tv/regular tv appearance/actor	actor
+/base/locations/countries/continent	continent
+/royalty/chivalric order member/belongs to order./royalty/chivalric order membership/order	order
+/royalty/kingdom/rulers	rulers
+/government/government agency/jurisdiction	jurisdiction
+/tv/tv location/tv shows filmed here	tv shows filmed here
+/film/actor/dubbing performances./film/dubbing performance/language	language
+/tv/tv program/filming locations	filming locations
+/tv/tv actor/starring roles./tv/regular tv appearance/character	character
+/basketball/basketball team/roster./sports/sports team roster/player	player
+/organization/organization/board members./organization/organization board membership/member	member
+/broadcast/content/artist	artist
+/government/government office or title/governmental body if any	governmental body if any
+/base/schemastaging/tv program extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/language	language
+/food/diet/followers	followers
+/base/nobelprizes/nobel subject area/nobel awards./base/nobelprizes/nobel honor/nobel prize winner	nobel prize winner
+/sports/sports position/players./soccer/football roster position/player	player
+/visual art/art subject/artwork on the subject	artwork on the subject
+/media common/dedicatee/dedications./media common/dedication/dedicated by	dedicated by
+/food/dish/cuisine	cuisine
+/tv/tv program/regular personal appearances./tv/tv regular personal appearance/appearance type	appearance type
+/business/consumer product/company./business/company product relationship/company	company
+/medicine/drug/active moieties	active moieties
+/military/military conflict/casualties./military/casualties/combatant	combatant
+/sports/professional sports team/draft picks./sports/sports league draft pick/player	player
+/location/statistical region/places imported from./location/imports and exports/imported from	imported from
+/geography/geographical feature/category	category
+/sports/pro athlete/sports played professionally./sports/pro sports played/sport	sport
+/baseball/baseball player/batting stats./baseball/batting statistics/season	season
+/american football/football player/rushing./american football/player rushing statistics/season	season
+/location/place with neighborhoods/neighborhoods	neighborhoods
+/soccer/football player/position s	position s
+/military/military person/service./military/military service/rank	rank
+/base/popstra/celebrity/hangout./base/popstra/hangout/business location	business location
+/military/military combatant/casualties./military/casualties/military conflict	military conflict
+/organization/organization/geographic scope	geographic scope
+/tv/tv program/regular cast./tv/regular tv appearance/seasons	seasons
+/tennis/tennis player/matches lost./tennis/tennis match/winner	winner
+/base/schemastaging/tv program extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/actor	actor
+/base/schemastaging/tv character extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/language	language
+/military/rank/used by services./military/military service/military person	military person
+/education/academic/advisees	advisees
+/travel/tourist attraction/near travel destination	near travel destination
+/music/voice/singers	singers
+/organization/role/leaders./organization/leadership/person	person
+/base/yalebase/secret society/notable members./base/yalebase/secret society membership/member	member
+/military/military combatant/military commanders./military/military command/military conflict	military conflict
+/military/armed force/personnel./military/military service/military person	military person
+/education/educational institution/sports teams	sports teams
+/media common/adapted work/adaptations	adaptations
+/award/hall of fame discipline/halls of fame	halls of fame
+/user/szaijan/fantasy football/player/nfl team	nfl team
+/government/legislative session/members./government/government position held/basic title	basic title
+/religion/religion/organizations	organizations
+/military/military commander/military commands./military/military command/military conflict	military conflict
+/base/contractbridge/bridge player/first place finish./base/contractbridge/bridge tournament standings/first place	first place
+/sports/sports team/roster./basketball/basketball roster position/player	player
+/fictional universe/fictional character/based on	based on
+/organization/organization/board members./organization/organization board membership/role	role
+/baseball/baseball player/lifetime batting statistics./baseball/lifetime batting statistics/starting season	starting season
+/basketball/basketball player/team./basketball/basketball roster position/position	position
+/finance/currency/countries formerly used	countries formerly used
+/language/human language/region	region
+/sports/sports award winner/awards./sports/sports award/team	team
+/aviation/airport/focus city for	focus city for
+/aviation/airline/airports served./aviation/airline airport presence/cities served	cities served
+/tv/tv program guest/appeared on./tv/tv guest personal appearance/appearance type	appearance type
+/film/film casting director/films casting directed	films casting directed
+/people/ethnicity/includes groups	includes groups
+/award/long list nominee/long list nominations./award/long list nomination/award	award
+/travel/transport terminus/travel destinations served./travel/transportation/mode of transportation	mode of transportation
+/location/statistical region/gni per capita in ppp dollars./measurement unit/dated money value/currency	currency
+/base/schemastaging/tv actor extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/character	character
+/book/book/genre	genre
+/education/field of study/students majoring./education/education/minor	minor
+/comic books/comic book character/created by	created by
+/sports/sports position/players./basketball/basketball roster position/player	player
+/base/schemastaging/tv actor extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/language	language
+/base/wrestling/solo wrestler or team/members	members
+/sports/pro athlete/teams./american football/football historical roster position/position s	position s
+/base/onephylogeny/type of thing/includes	includes
+/sports/sports championship event/champion	champion
+/aviation/airport/airlines./aviation/airline airport presence/airline	airline
+/music/instrument/variation	variation
+/base/x2010fifaworldcupsouthafrica/world cup participant/world cup team./base/x2010fifaworldcupsouthafrica/current world cup squad/position	position
+/computer/software/license	license
+/base/eating/diets/people who follow this diet	people who follow this diet
+/education/academic/appointments fellowships etc./education/academic post/institution	institution
+/fictional universe/fictional character/employers./fictional universe/fictional employment tenure/title	title
+/fictional universe/fictional character/married to./fictional universe/marriage of fictional characters/spouses	spouses
+/business/board member/leader of./organization/leadership/role	role
+/film/film festival event/festival	festival
+/sports/pro athlete/teams./baseball/baseball roster position/team	team
+/base/fight/sports official/sport	sport
+/basketball/basketball team/roster./basketball/basketball roster position/player	player
+/education/educational institution/mascot	mascot
+/visual art/visual artist/art forms	art forms
+/user/robert/us congress/congressional caucus/current house members	current house members
+/base/contractbridge/bridge player/second place finish./base/contractbridge/bridge tournament standings/second place	second place
+/base/popstra/celebrity/eats at./base/popstra/restaurant choice/restaurant	restaurant
+/sports/sports team/roster./american football/football historical roster position/player	player
+/user/alexbl/honorary title/honorary title/titled people./user/alexbl/honorary title/honorary title holding/conferred upon	conferred upon
+/sports/sports league/sport	sport
+/user/tfmorris/default domain/document/signatories	signatories
+/sports/pro athlete/teams./basketball/basketball roster position/team	team
+/film/special film performance type/film performance type./film/performance/character	character
+/broadcast/radio format/stations	stations
+/fictional universe/character gender/characters of this gender	characters of this gender
+/astronomy/orbital relationship/orbits	orbits
+/astronomy/orbital relationship/orbited by	orbited by
+/base/contractbridge/bridge player/second place finish./base/contractbridge/bridge tournament standings/first place	first place
+/american football/football position/players	players
+/fictional universe/fictional character/gender	gender
+/government/political ideology/political parties	political parties
+/government/legislative session/legislature	legislature
+/base/popstra/business location/customer./base/popstra/hangout/customer	customer
+/user/lindenb/default domain/scientist/known for	known for
+/film/film/gross revenue./measurement unit/dated money value/currency	currency
+/fictional universe/fictional character creator/fictional characters created	fictional characters created
+/government/political district/representatives./government/government position held/basic title	basic title
+/people/ethnicity/included in group	included in group
+/film/film/film casting director	film casting director
+/government/government office category/offices	offices
+/government/government office category/officeholders./government/government position held/governmental body	governmental body
+/basketball/basketball player/former teams./sports/sports team roster/team	team
+/computer/computer manufacturer brand/computer models	computer models
+/base/popstra/company/fashion choice./base/popstra/fashion choice/fashion wearer	fashion wearer
+/basketball/basketball player/former teams./basketball/basketball historical roster position/team	team
+/baseball/baseball player/lifetime batting statistics./baseball/lifetime batting statistics/last statistics season	last statistics season
+/biology/organism classification/rank	rank
+/tennis/tennis player/matches won./tennis/tennis match/loser	loser
+/business/sponsor/sponsorship./business/sponsorship/sponsored recipient	sponsored recipient
+/organization/organization sector/organizations in this sector	organizations in this sector
+/base/popstra/celebrity/bought./base/popstra/product choice/product	product
+/organization/organization/product of merger./organization/organization merger/organizations merging	organizations merging
+/music/group member/artists supported	artists supported
+/sports/sports championship event/championship	championship
+/book/newspaper/circulation areas	circulation areas
+/government/governmental body/members./government/government position held/basic title	basic title
+/sports/sports championship/events	events
+/user/tfmorris/default domain/signatory/documents signed	documents signed
+/government/governmental jurisdiction/agencies	agencies
+/music/artist/supporting artists	supporting artists
+/government/governmental jurisdiction/governing officials./government/government position held/legislative sessions	legislative sessions
+/sports/school sports team/school	school
+/protected sites/site listing category/listed sites./protected sites/natural or cultural site listing/listed site	listed site
+/internet/website owner/websites owned new./internet/website ownership/website	website
+/religion/religion/notable figures	notable figures
+/tv/tv program/episodes	episodes
+/soccer/football player/current team./sports/sports team roster/position	position
+/user/szaijan/fantasy football/player/position	position
+/common/resource/annotations./common/webpage/category	category
+/media common/literary genre/books in this genre	books in this genre
+/soccer/football team/manager./soccer/football team management tenure/manager	manager
+/travel/transport terminus/travel destinations served./travel/transportation/travel destination	travel destination
+/tv/tv network/areas served	areas served
+/protected sites/listed site/designation as natural or cultural site./protected sites/natural or cultural site listing/category or criteria	category or criteria
+/government/government office or title/office holders./government/government position held/jurisdiction of office	jurisdiction of office
+/olympics/olympic athlete/medals won./olympics/olympic medal honor/country	country
+/visual art/visual artist/associated periods or movements	associated periods or movements
+/music/instrument/family	family
+/tv/tv character/appeared in tv episodes./tv/tv guest role/actor	actor
+/basketball/basketball team/historical roster./basketball/basketball historical roster position/player	player
+/government/governmental body/members./government/government position held/jurisdiction of office	jurisdiction of office
+/government/governmental body/jurisdiction	jurisdiction
+/government/political district/representatives./government/government position held/office holder	office holder
+/user/robert/us congress/us representative/committee memberships	committee memberships
+/visual art/visual art form/artists	artists
+/music/artist/album	album
+/government/government office or title/category	category
+/american football/football coach position/coaches holding this position./american football/football historical coach position/team	team
+/award/award presenting organization/awards presented	awards presented
+/computer/software genre/software in genre	software in genre
+/base/x2010fifaworldcupsouthafrica/world cup participant/world cup team./base/x2010fifaworldcupsouthafrica/current world cup squad/current club	current club
+/baseball/baseball position/players	players
+/people/appointer/appointment made./people/appointment/appointed role	appointed role
+/tv/special tv performance type/starring performances./tv/regular tv appearance/series	series
+/sports/sports league season/awards./sports/sports award/award	award
+/sports/sports award type/winners./sports/sports award/season	season
+/visual art/art period movement/associated artists	associated artists
+/people/family member/family	family
+/organization/role/governors./organization/organization board membership/organization	organization
+/soccer/football player/goals scored./soccer/football goal/point awarded to	point awarded to
+/computer/software developer/software	software
+/media common/dedicatee/dedications./media common/dedication/work dedicated	work dedicated
+/soccer/football team/league./soccer/football league participation/league	league
+/business/sponsored recipient/sponsorship./business/sponsorship/sponsored by	sponsored by
+/religion/religious organization/associated with	associated with
+/base/contractbridge/bridge player/teammates./base/contractbridge/bridge player teammates/teammate	teammate
+/american football/football player/former teams./american football/football historical roster position/position s	position s
+/architecture/building function/buildings	buildings
+/business/board member/leader of./organization/leadership/organization	organization
+/film/film/film series	film series
+/sports/sport/leagues	leagues
+/military/military conflict/commanders./military/military command/military commander	military commander
+/dining/cuisine/ingredients	ingredients
+/government/politician/government positions held./government/government position held/district represented	district represented
+/fictional universe/fictional character/character created by	character created by
+/sports/sports team/championships	championships
+/government/politician/government positions held./government/government position held/jurisdiction of office	jurisdiction of office
+/sports/sports team/season record./sports/sports team season record/season	season
+/government/governmental jurisdiction/governing officials./government/government position held/appointed by	appointed by
+/biology/organism classification rank/organism classifications	organism classifications
+/ice hockey/hockey position/players	players
+/sports/sports award winner/awards./sports/sports award/season	season
+/broadcast/content/genre	genre
+/organization/organization/spun off from./organization/organization spin off/parent company	parent company
+/organization/organization/involved in merger./organization/organization merger/became organization	became organization
+/broadcast/broadcast/area served	area served
+/business/consumer company/brands./business/company brand relationship/brand	brand
+/tv/tv actor/guest roles./tv/tv guest role/episodes appeared in	episodes appeared in
+/american football/football player/current team./sports/sports team roster/team	team
+/geography/river/cities	cities
+/dining/cuisine/dishes	dishes
+/language/language dialect/language	language
+/fictional universe/fictional setting/works set here	works set here
+/base/crime/crime victim/crime	crime
+/religion/religion/includes	includes
+/time/event/included in event	included in event
+/film/film character/portrayed in films dubbed./film/dubbing performance/film	film
+/projects/project role/projects./projects/project participation/participant	participant
+/education/field of study/academics in this field	academics in this field
+/base/events/type of festival/recurring festivals of this type	recurring festivals of this type
+/basketball/basketball player/team./sports/sports team roster/team	team
+/sports/drafted athlete/drafted./sports/sports league draft pick/school	school
+/aviation/airline/airports served./aviation/airline airport presence/airport	airport
+/geography/body of water/islands	islands
+/basketball/basketball player/team./sports/sports team roster/position	position
+/comic books/comic book creator/characters created	characters created
+/transportation/road/end2./transportation/road starting point/location	location
+/sports/pro athlete/teams./american football/football roster position/position	position
+/government/governmental jurisdiction/government positions	government positions
+/architecture/architectural style/architects	architects
+/tv/tv actor/guest roles./tv/tv guest role/special performance type	special performance type
+/astronomy/celestial object category/objects	objects
+/architecture/structure/architect	architect
+/cvg/computer videogame/publisher	publisher
+/sports/sports position/players./american football/football historical roster position/player	player
+/geography/island/island group	island group
+/baseball/baseball player/former teams./baseball/baseball historical roster position/team	team
+/base/localfood/food producing region/seasonal availability./base/localfood/produce availability/produce	produce
+/book/author/works written	works written
+/tv/tv series season/regular cast./tv/regular tv appearance/actor	actor
+/fictional universe/fictional universe/works set here	works set here
+/religion/religion/places of worship	places of worship
+/government/governmental jurisdiction/governing officials./government/government position held/district represented	district represented
+/biology/animal breed/registered with./biology/breed registration/breed group	breed group
+/cvg/computer videogame/game series	game series
+/olympics/olympic athlete/country./olympics/olympic athlete affiliation/sport	sport
+/tv/special tv performance type/starring performances./tv/regular tv appearance/character	character
+/cvg/cvg genre/games	games
+/sports/pro athlete/teams./baseball/baseball historical roster position/team	team
+/base/petbreeds/dog breed/size./base/petbreeds/dog size/gender	gender
+/olympics/olympic medal/medal winners./olympics/olympic medal honor/medalist	medalist
+/basketball/basketball player/player statistics./basketball/basketball player stats/team	team
+/base/popstra/celebrity/wears./base/popstra/fashion choice/designer	designer
+/base/famouspets/pet owner/pets owned./base/famouspets/pet ownership/owner	owner
+/government/government office or title/jurisdiction	jurisdiction
+/government/governmental body/members./government/government position held/office position or title	office position or title
+/base/thoroughbredracing/thoroughbred racehorse/color	color
+/tv/tv program/regular cast./tv/regular tv appearance/character	character
+/base/americancomedy/comedian/comedy genres	comedy genres
+/travel/transport operator/travel destinations served./travel/transportation/transport operator	transport operator
+/aviation/airline alliance/member airlines	member airlines
+/base/events/festival series/type of festival	type of festival
+/tv/tv series episode/series	series
+/government/government office or title/office holders./government/government position held/basic title	basic title
+/broadcast/radio station/owner	owner
+/geography/river/basin countries	basin countries
+/computer/operating system/includes os versions	includes os versions
+/american football/football player/passing./american football/player passing statistics/season	season
+/architecture/structure/architectural style	architectural style
+/tv/tv program/subjects	subjects
+/tv/tv actor/starring roles./tv/regular tv appearance/seasons	seasons
+/music/genre/albums	albums
+/cvg/computer videogame/subjects	subjects
+/film/film/personal appearances./film/personal film appearance/type of appearance	type of appearance
+/sports/tournament event competitor/events competed in./sports/competitor competition relationship/country	country
+/tv/tv series episode/guest stars./tv/tv guest role/actor	actor
+/cvg/cvg developer/games developed	games developed
+/fictional universe/fictional universe/characters	characters
+/award/hall of fame inductee/hall of fame inductions./award/hall of fame induction/category	category
+/sports/drafted athlete/drafted./sports/sports league draft pick/team	team
+/american football/football player/games./american football/player game statistics/team	team
+/base/popstra/company/shopping choice./base/popstra/shopping choice/shopper	shopper
+/venture capital/venture investor/investments./venture capital/venture investment/company	company
+/government/governmental jurisdiction/government bodies	government bodies
+/people/deceased person/place of cremation	place of cremation
+/celebrities/celebrity/sexual orientation./celebrities/sexual orientation phase/sexual orientation	sexual orientation
+/education/school/lowest grade taught	lowest grade taught
+/tv/tv character/appeared in tv program./tv/regular tv appearance/special performance type	special performance type
+/organization/role/governors./organization/organization board membership/member	member
+/tv/non character role/tv guest personal appearances./tv/tv guest personal appearance/person	person
+/government/government office or title/office holders./government/government position held/governmental body	governmental body
+/location/location/nearby airports	nearby airports
+/tv/non character role/tv regular personal appearances./tv/tv regular personal appearance/program	program
+/medicine/disease/prevention factors	prevention factors
+/book/written work/subjects	subjects
+/cvg/computer videogame/gameplay modes	gameplay modes
+/government/governmental body/offices positions	offices positions
+/film/personal film appearance type/film appearances./film/personal film appearance/film	film
+/biology/breed registry/recognized breeds./biology/breed registration/breed	breed
+/award/hall of fame induction category/inductees./award/hall of fame induction/inductee	inductee
+/film/actor/dubbing performances./film/dubbing performance/character	character
+/base/localfood/produce/availability./base/localfood/produce availability/location	location
+/base/popstra/restaurant/restaurant choice./base/popstra/restaurant choice/diner	diner
+/sports/sports team/roster./american football/football roster position/player	player
+/base/crime/crime victim/crime type	crime type
+/computer/operating system developer/operating systems developed	operating systems developed
+/religion/religion/is part of	is part of
+/biology/animal breed/place of origin	place of origin
+/user/narphorium/people/wealthy person/net worth./measurement unit/dated money value/currency	currency
+/base/schemastaging/organization extra/phone number./base/schemastaging/phone sandbox/product or service	product or service
+/travel/transport operator/travel destinations served./travel/transportation/mode of transportation	mode of transportation
+/medicine/drug/legal status	legal status
+/tv/tv program/spin offs	spin offs
+/broadcast/producer/produces	produces
+/media common/adaptation/adapted from	adapted from
+/american football/football player/rushing./american football/player rushing statistics/team	team
+/tv/tv character/appeared in tv program./tv/regular tv appearance/series	series
+/cvg/game character/games./cvg/game performance/game	game
+/soccer/football player/matches played./soccer/football player match participation/team	team
+/government/government office category/officeholders./government/government position held/office position or title	office position or title
+/ice hockey/hockey player/former team s./ice hockey/hockey previous roster position/team	team
+/computer/software/developer	developer
+/fictional universe/fictional setting/fictional characters born here	fictional characters born here
+/aviation/airline/alliance	alliance
+/baseball/baseball league/teams	teams
+/olympics/olympic athlete/medals won./olympics/olympic medal honor/olympics	olympics
+/games/game genre/boardgames	boardgames
+/basketball/basketball player/team./basketball/basketball roster position/team	team
+/base/rugby/rugby player/type of rugby	type of rugby
+/government/governmental jurisdiction/governing officials./government/government position held/office position or title	office position or title
+/medicine/infectious disease/infectious agent type	infectious agent type
+/baseball/baseball player/current team./baseball/baseball roster position/position	position
+/tv/tv series season/regular cast./tv/regular tv appearance/seasons	seasons
+/biology/domesticated animal/breeds	breeds
+/cvg/computer videogame/cvg genre	cvg genre
+/film/film/dubbing performances./film/dubbing performance/character	character
+/biology/breed origin/breeds originating here	breeds originating here
+/religion/deity/deity of	deity of
+/fictional universe/work of fiction/setting	setting
+/broadcast/radio station/format	format
+/sports/sports championship event/runner up	runner up
+/film/film character/portrayed in films./film/performance/special performance type	special performance type
+/computer/operating system/developer	developer
+/food/ingredient/incompatible with dietary restrictions	incompatible with dietary restrictions
+/architecture/type of museum/museums	museums
+/american football/football player/games./american football/player game statistics/season	season
+/computer/programming language designer/languages designed	languages designed
+/baseball/baseball team/current roster./baseball/baseball roster position/player	player
+/book/periodical subject/periodicals	periodicals
+/ice hockey/hockey player/former team s./sports/sports team roster/team	team
+/organization/organization/leadership./organization/leadership/person	person
+/base/nobelprizes/nobel subject area/nobel awards./base/nobelprizes/nobel honor/subject area	subject area
+/royalty/noble title/holders./royalty/noble title tenure/noble person	noble person
+/ice hockey/hockey team/historical roster./sports/sports team roster/player	player
+/basketball/basketball position/players	players
+/base/argumentmaps/morally disputed activity/instance of abstract moral dispute	instance of abstract moral dispute
+/base/contractbridge/bridge player/second place finish./base/contractbridge/bridge tournament standings/tournament	tournament
+/base/fight/sentence/convictions./base/crime/criminal conviction/convicted person	convicted person
+/sports/professional sports team/owner s	owner s
+/ice hockey/hockey player/current team./sports/sports team roster/position	position
+/aviation/airline/hubs	hubs
+/common/annotation category/annotations	annotations
+/location/it province/capital	capital
+/tv/tv actor/guest roles./tv/tv guest role/character	character
+/architecture/architect/architectural style	architectural style
+/base/schemastaging/tv program extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/character	character
+/baseball/baseball team/league	league
+/organization/organization/spin offs./organization/organization spin off/child company	child company
+/film/film featured song/performed by	performed by
+/computer/computer/compatible oses./computer/os compatibility/operating system	operating system
+/dining/cuisine/restaurant	restaurant
+/base/fashionmodels/hair color/fashion models with this hair color	fashion models with this hair color
+/film/film company/films./film/film film company relationship/film	film
+/base/argumentmaps/abstract moral dispute/particular instances	particular instances
+/sports/sports team owner/teams owned	teams owned
+/location/country/currency formerly used	currency formerly used
+/user/tsegaran/computer/algorithm/family	family
+/base/petbreeds/dog breed/group	group
+/book/book subject/works	works
+/comic books/comic book creator/series created	series created
+/base/contractbridge/bridge tournament/standing./base/contractbridge/bridge tournament standings/second place	second place
+/aviation/airport/serves	serves
+/film/film/other film companies./film/film film company relationship/film company	film company
+/cvg/computer game subject/games	games
+/architecture/structure/address./location/mailing address/citytown	citytown
+/travel/transport operator/travel destinations served./travel/transportation/travel destination	travel destination
+/biology/animal breed/breed of	breed of
+/government/governmental body/component bodies	component bodies
+/geography/lake type/lakes of this type	lakes of this type
+/sports/pro athlete/teams./baseball/baseball roster position/position	position
+/cvg/computer videogame/characters./cvg/game performance/character	character
+/music/album/artist	artist
+/people/appointee/position./people/appointment/appointed role	appointed role
+/education/school district/schools	schools
+/aviation/airport/hub for	hub for
+/computer/software/compatible oses./computer/software compatibility/operating system	operating system
+/astronomy/star system body/star system	star system
+/fictional universe/character powers/characters with this ability	characters with this ability
+/architecture/architectural style/examples	examples
+/sports/sports position/players./ice hockey/hockey roster position/player	player
+/martial arts/martial artist/martial art	martial art
+/fictional universe/work of fiction/part of these fictional universes	part of these fictional universes
+/base/schemastaging/tv character extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/program	program
+/geography/geographical feature category/features	features
+/american football/football team/historical coaching staff./american football/football historical coach position/position	position
+/religion/religion/texts	texts
+/media common/dedicated work/dedication./media common/dedication/dedicated to	dedicated to
+/film/film festival/location	location
+/theater/theater character/portrayed by./theater/theater role/actor	actor
+/chemistry/chemical compound/solubility./chemistry/solubility relationship/solvent	solvent
+/base/x2010fifaworldcupsouthafrica/world cup participant/world cup team./base/x2010fifaworldcupsouthafrica/current world cup squad/national team	national team
+/biology/organism classification/organisms of this type	organisms of this type
+/sports/sports team/roster./baseball/baseball roster position/player	player
+/architecture/building/building function	building function
+/theater/theater genre/plays in this genre	plays in this genre
+/religion/religion/practices	practices
+/base/ecology/ecosystem/ecosystem members	ecosystem members
+/internet/website/category	category
+/law/inventor/inventions	inventions
+/fictional universe/character species/characters of this species	characters of this species
+/periodicals/newspaper circulation area/newspapers	newspapers
+/soccer/football team manager/team./soccer/football team management tenure/team	team
+/base/newsevents/news reporting organisation/news reports./base/newsevents/news report/event	event
+/people/appointed role/appointment./people/appointment/appointed by	appointed by
+/baseball/baseball player/current team./baseball/baseball roster position/team	team
+/education/academic/research areas	research areas
+/user/robert/us congress/us representative/congressional caucus memberships	congressional caucus memberships
+/tv/tv series episode/guest personal appearances./tv/tv guest personal appearance/person	person
+/broadcast/content/language	language
+/book/magazine/genre	genre
+/book/written work/author	author
+/baseball/baseball player/current team./sports/sports team roster/team	team
+/music/concert tour/artist	artist
+/base/crime/convicted criminal/convictions./base/crime/criminal conviction/sentence type	sentence type
+/medicine/medical treatment/side effects	side effects
+/common/webpage/category	category
+/tv/tv program guest/appeared on./tv/tv guest personal appearance/episode	episode
+/medicine/icd 9 cm classification/includes classifications	includes classifications
+/base/yalebase/secret society member/belonged to./base/yalebase/secret society membership/society	society
+/travel/transport terminus/travel destinations served./travel/transportation/transport terminus	transport terminus
+/geography/lake/basin countries	basin countries
+/internet/website category/sites	sites
+/base/schemastaging/tv character extra/regular dubbing performances./base/schemastaging/tv star dubbing performance/actor	actor
+/fictional universe/fictional character/children	children
+/education/school/highest grade taught	highest grade taught
+/royalty/monarch/kingdom	kingdom
+/base/collectives/collective/members./base/collectives/collective membership/member	member
+/fictional universe/fictional character/place of birth	place of birth
+/base/infrastructure/power station/fuel type	fuel type
+/base/fight/crime type/includes crimes	includes crimes
+/fictional universe/fictional job title/fictional characters with this job./fictional universe/fictional employment tenure/employee	employee
+/broadcast/broadcast/content	content
+/common/topic/webpage./common/webpage/resource	resource
+/comic books/comic book character/primary universe	primary universe
+/book/periodical format/periodicals in this format./book/periodical format period/periodical	periodical
+/geography/river/mouth	mouth
+/organization/organization/involved in merger./organization/organization merger/organizations merging	organizations merging
+/sports/pro athlete/teams./basketball/basketball roster position/position	position
+/base/endorsements/endorsee/newspaper endorsements./base/endorsements/newspaper endorsement/newspaper	newspaper
+/american football/football coach position/coaches holding this position./american football/football historical coach position/coach	coach
+/comic books/comic book character/regular featured appearances	regular featured appearances
+/broadcast/broadcast/distributor	distributor
+/exhibitions/exhibition sponsor/exhibitions sponsored./exhibitions/exhibition run/sponsor	sponsor
+/architecture/museum/address./location/mailing address/state province region	state province region
+/basketball/basketball position/player roster position./sports/sports team roster/player	player
+/location/statistical region/population./measurement unit/dated integer/source	source
+/royalty/monarch/royal line	royal line
+/theater/play/lyricist	lyricist
+/sports/sports team/roster./ice hockey/hockey roster position/player	player
+/martial arts/martial art/well known practitioner	well known practitioner
+/education/academic/advisors	advisors
+/location/location/street address./location/mailing address/citytown	citytown
+/film/film series/films in series	films in series
+/military/military post/used by armed forces./military/military post use/armed force	armed force
+/user/robert/us congress/house committee/current members	current members
+/aviation/aircraft model/number owned by./aviation/aircraft ownership count/aircraft owner	aircraft owner
+/base/contractbridge/bridge tournament/standing./base/contractbridge/bridge tournament standings/first place	first place
+/award/award category/long lists./award/long list nomination/nominee	nominee
+/broadcast/content/broadcast	broadcast
+/royalty/noble title/noble rank	noble rank
+/cvg/computer videogame/sequel	sequel
+/user/robert/military/military person/participated in conflicts	participated in conflicts
+/religion/religious text/religious text of	religious text of
+/fictional universe/person in fiction/representations in fiction	representations in fiction
+/base/crime/convicted criminal/convictions./base/crime/criminal conviction/guilty of	guilty of
+/ice hockey/hockey player/current team./sports/sports team roster/team	team
+/theater/play/country of origin	country of origin
+/biology/organism classification/higher classification	higher classification
+/cvg/computer videogame/developer	developer
+/food/dietary restriction/incompatible ingredients	incompatible ingredients
+/base/bioventurist/science or technology company/develops treatments for disease	develops treatments for disease
+/base/endorsements/endorsing newspaper/endorsements./base/endorsements/newspaper endorsement/election	election
+/visual art/visual art form/artworks	artworks
+/metropolitan transit/transit line/service type	service type
+/sports/pro athlete/teams./ice hockey/hockey roster position/team	team
+/transportation/bridge/bridge type	bridge type
+/tennis/tennis tournament champion/tennis titles./tennis/tennis tournament championship/winner	winner
+/media common/dedicator/dedications./media common/dedication/work dedicated	work dedicated
+/base/onephylogeny/type of thing/things of this type	things of this type
+/food/ingredient/dishes	dishes
+/base/fight/crime type/included in crimes	included in crimes
+/fictional universe/character rank/characters of this rank	characters of this rank
+/projects/project participant/projects./projects/project participation/role	role
+/base/crime/crime/victim s	victim s
+/aviation/aircraft type/aircraft of this type	aircraft of this type
+/sports/drafted athlete/drafted./sports/sports league draft pick/draft	draft
+/base/activism/activism issue/activist organizations	activist organizations
+/biology/breed group/breeds in this group./biology/breed registration/breed	breed
+/award/recurring competition/individual competitions	individual competitions
+/award/competition/instance of recurring competition	instance of recurring competition
+/book/author/series written or contributed to	series written or contributed to
+/sports/pro athlete/teams./american football/football roster position/team	team
+/visual art/artwork/art subject	art subject
+/base/schemastaging/fish/found in	found in
+/media common/dedicated work/dedication./media common/dedication/dedicated by	dedicated by
+/geography/island group/islands in group	islands in group
+/base/collectives/collective member/member of./base/collectives/collective membership/collective	collective
+/base/endorsements/endorsing newspaper/endorsements./base/endorsements/newspaper endorsement/endorsee	endorsee
+/government/governmental body/body this is a component of	body this is a component of
+/base/thoroughbredracing/thoroughbred racehorse/country	country
+/royalty/royal line/monarchs from this line	monarchs from this line
+/biology/organism/sex	sex
+/base/activism/organization/area of activism	area of activism
+/comic books/comic book fictional universe/characters primarily appearing in this universe	characters primarily appearing in this universe
+/tv/tv subject/tv programs	tv programs
+/book/magazine genre/magazines in this genre	magazines in this genre
+/fictional universe/fictional character/romantically involved with./fictional universe/romantic involvement/partner	partner
+/user/szaijan/fantasy football/position/player	player
+/medicine/drug ingredient/more specific ingredient	more specific ingredient
+/broadcast/radio station owner/radio stations	radio stations
+/religion/place of worship/religion	religion
+/aviation/airline/focus cities	focus cities
+/sports/sport/related equipment	related equipment
+/tv/tv producer/tv episodes produced./tv/tv producer episode credit/episode	episode
+/broadcast/tv station/owner	owner
+/biology/animal breed/registered with./biology/breed registration/registry	registry
+/fictional universe/fictional character/siblings./fictional universe/sibling relationship of fictional characters/siblings	siblings
+/medicine/type of infectious agent/diseases	diseases
+/base/contractbridge/bridge player/first place finish./base/contractbridge/bridge tournament standings/tournament	tournament
+/sports/sports facility/teams	teams
+/user/radiusrs/default domain/astrology/related topics	related topics
+/comic books/comic book publisher/comic book series published	comic book series published
+/education/fraternity sorority/founded location	founded location
+/american football/football player/passing./american football/player passing statistics/team	team
+/dining/restaurant/cuisine	cuisine
+/architecture/structure/address./location/mailing address/state province region	state province region
+/military/armed force/military posts./military/military post use/military post	military post
+/american football/football team/current roster./sports/sports team roster/player	player
+/sports/sport country/athletic performances./sports/competitor competition relationship/competitors	competitors
+/spaceflight/space agency/astronauts	astronauts
+/sports/sports official/sport	sport
+/education/fraternity sorority/colors	colors
+/theater/play/genre	genre
+/transportation/bridge/locale	locale
+/geography/lake/lake type	lake type
+/fictional universe/fictional character/appears in these fictional universes	appears in these fictional universes
+/tv/tv series episode/producers./tv/tv producer episode credit/producer	producer
+/religion/religious organization/leaders./religion/religious organization leadership/leader	leader
+/american football/football player/receiving./american football/player receiving statistics/team	team
+/interests/collection category/sub categories	sub categories
+/medicine/drug/drug class	drug class
+/baseball/baseball player/lifetime batting statistics./baseball/lifetime batting statistics/ending season	ending season
+/base/onephylogeny/type of thing/included in	included in
+/tv/tv program/seasons	seasons
+/base/patronage/patron/related client./base/patronage/patron client relationship/client	client
+/cvg/cvg designer/games designed	games designed
+/internet/website/owner new./internet/website ownership/owner	owner
+/education/school mascot/school	school
+/base/argumentmaps/innovator/original ideas	original ideas
+/protected sites/iucn category/protected areas	protected areas
+/food/ingredient/cuisine	cuisine
+/broadcast/content/location	location
+/book/periodical/subjects	subjects
+/user/tsegaran/computer/algorithm family/algorithm	algorithm
+/sports/sports league draft/picks./sports/sports league draft pick/player	player
+/visual art/visual art genre/artworks	artworks
+/religion/religious leader/religious leadership./religion/religious organization leadership/organization	organization
+/royalty/noble person/titles./royalty/noble title tenure/noble title	noble title
+/tv/tv series episode/writer	writer
+/ice hockey/hockey player/current team./ice hockey/hockey roster position/team	team
+/education/academic institution/visiting scholars fellows etc./education/academic post/person	person
+/interests/collection category/parent category	parent category
+/metropolitan transit/transit system/area served	area served
+/common/topic/webpage./common/webpage/topic	topic
+/broadcast/distributor/distributes	distributes
+/education/school district/locations served	locations served
+/business/asset/owners./business/asset ownership/owner	owner
+/common/topic/subject of	subject of
+/medicine/condition prevention factors/conditions this may prevent	conditions this may prevent
+/ice hockey/hockey team/current roster./sports/sports team roster/player	player
+/american football/football coach/coaching history./american football/football historical coach position/team	team
+/computer/software/languages used	languages used
+/government/election/office	office
+/astronomy/star system/planetary system	planetary system
+/user/robert/us congress/congressional district/state	state
+/sports/sport/officials	officials
+/sports/sports team/roster./ice hockey/hockey previous roster position/player	player
+/computer/programming language/dialects	dialects
+/protected sites/protected site/iucn category	iucn category
+/business/asset owner/assets owned./business/asset ownership/owned asset	owned asset
+/sports/sports equipment/sport used for	sport used for
+/exhibitions/exhibition sponsor/exhibitions sponsored./exhibitions/exhibition run/venue	venue
+/book/newspaper/headquarters./location/mailing address/citytown	citytown
+/fictional universe/fictional character/rank	rank
+/royalty/noble title/used in./royalty/system title relationship/system	system
+/biology/organism classification/lower classifications	lower classifications
+/baseball/baseball team/current roster./sports/sports team roster/player	player
+/base/thoroughbredracing/thoroughbred racehorse color/horses of this color	horses of this color
+/user/robert/us congress/us representative/state	state
+/base/patronage/client/related patron./base/patronage/patron client relationship/patron	patron
+/education/school/school district	school district
+/base/usnationalparks/us national park/state	state
+/travel/travel destination/local transportation	local transportation
+/common/resource/annotations./common/webpage/topic	topic
+/comic books/comic book series/publisher	publisher
+/fictional universe/ethnicity in fiction/characters of this ethnicity	characters of this ethnicity
+/cvg/computer videogame/designers	designers
+/business/board member/organization board memberships./organization/organization board membership/role	role
+/common/topic/subjects	subjects
+/sports/pro athlete/teams./ice hockey/hockey roster position/position	position
+/protected sites/governing body of protected sites/protected sites governed	protected sites governed
+/location/location/street address./location/mailing address/state province region	state province region
+/sports/sports position/players./baseball/baseball roster position/player	player
+/base/folklore/mythical creature/mythology	mythology
+/base/ecology/food web member/belongs to ecosystem s	belongs to ecosystem s
+/base/petbreeds/dog breed/color	color
+/music/conducted ensemble/conductors./music/conducting tenure/conductor	conductor
+/music/conductor/groups./music/conducting tenure/ensemble	ensemble
+/transportation/road/end1./transportation/road starting point/location	location
+/people/appointee/position./people/appointment/appointed by	appointed by
+/cvg/game voice actor/computer game voice performances./cvg/game performance/game	game
+/cvg/game series/games in series	games in series
+/base/argumentmaps/original idea/innovator	innovator
+/theater/theater actor/theater roles./theater/theater role/role	role
+/people/appointer/appointment made./people/appointment/appointee	appointee
+/aviation/aircraft model/aircraft type	aircraft type
+/cvg/computer videogame/prequel	prequel
+/film/film character/portrayed in films dubbed./film/dubbing performance/actor	actor
+/ice hockey/hockey team/current roster./ice hockey/hockey roster position/player	player
+/travel/travel destination/how to get here./travel/transportation/transport terminus	transport terminus
+/architecture/structure/construction cost./measurement unit/money value/currency	currency
+/aviation/aircraft manufacturer/aircraft models made	aircraft models made
+/ice hockey/hockey player/current team./ice hockey/hockey roster position/position	position
+/ice hockey/hockey player/hockey position	hockey position
+/american football/football player/current team./american football/football roster position/position	position
+/architecture/architectural structure owner/structures owned./architecture/ownership/structure	structure
+/book/periodical publisher/periodicals published./book/periodical publisher period/periodical	periodical
+/book/newspaper owner/newspapers owned	newspapers owned
+/cvg/computer videogame/characters./cvg/game performance/voice actor	voice actor
+/american football/football player/current team./american football/football roster position/team	team
+/american football/football team/current roster./american football/football roster position/player	player
+/base/wrestling/professional wrestler/member of team	member of team
+/comic books/comic book series/created by	created by
+/visual art/artwork/art form	art form
+/american football/football player/receiving./american football/player receiving statistics/season	season
+/theater/theatrical lyricist/play lyrics written	play lyrics written
+/visual art/artwork/art genre	art genre
+/architecture/architect/structures designed	structures designed
+/base/folklore/mythology/mythical creatures	mythical creatures
+/base/petbreeds/dog coat color/dog breeds	dog breeds
+/base/infrastructure/power plant type/power station	power station
+/base/petbreeds/dog breed group/dog breeds	dog breeds
+/common/webpage/topic	topic
+/language/human language/dialects	dialects
+/award/award/presented by	presented by
+/exhibitions/exhibition venue/exhibitions at this venue./exhibitions/exhibition run/sponsor	sponsor
+/book/periodical/publisher./book/periodical publisher period/publisher	publisher
+/transportation/bridge type/bridges of this type	bridges of this type
+/base/disaster2/tactic/attacks of this form./base/disaster2/attack process/attack event	attack event
+/book/newspaper/headquarters./location/mailing address/state province region	state province region
+/book/written work/original language	original language
+/law/court/judges./law/judicial tenure/judge	judge
+/architecture/structure/owner./architecture/ownership/owner	owner
+/people/appointed role/appointment./people/appointment/appointee	appointee
+/book/literary series/author s	author s
+/biology/organism/organism type	organism type
+/music/album release type/albums	albums
+/american football/football team/historical coaching staff./american football/football historical coach position/coach	coach
+/sports/sports team/arena stadium	arena stadium
+/fictional universe/fictional character/parents	parents
+/aviation/airliner accident/flight destination	flight destination
+/comic books/comic book series/featured characters	featured characters
+/law/judge/courts./law/judicial tenure/court	court
+/computer/programming language/parent language	parent language
+/royalty/system of nobility/titles./royalty/system title relationship/title	title
+/cvg/game voice actor/computer game voice performances./cvg/game performance/character	character
+/medicine/symptom/side effect of	side effect of
+/computer/programming language/language designers	language designers
+/cvg/game character/games./cvg/game performance/voice actor	voice actor
+/american football/football coach/coaching history./american football/football historical coach position/position	position
+/book/newspaper/owner	owner
+/medicine/drug class/drugs	drugs
+/sports/multi event tournament/sports	sports
