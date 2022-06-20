@@ -113,9 +113,10 @@ class DataCollatorForSeq2Seq:
             pad_to_multiple_of=self.pad_to_multiple_of,
             return_tensors=return_tensors,
         )
-        features['labels'] = labels
+        features['labels'] = torch.tensor(labels)
         features['label'] = torch.tensor(label)
         features.update(features_keys)
+        features['pos'] = torch.tensor(features['pos'])
 
         return features
 
