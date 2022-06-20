@@ -10,7 +10,6 @@ import yaml
 import time
 from transformers import AutoConfig
 import os
-from utils import get_decoder_input_ids
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
