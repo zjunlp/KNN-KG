@@ -795,7 +795,7 @@ def get_dataset(args, processor, label_list, tokenizer, mode):
         rel = features[f_id].pop("rel")
         real_label = f['label']
         cnt = 0
-        if not isinstance(en, list): break
+        if not isinstance(en, list): continue
 
         pos = 0
         for i,t in enumerate(f['input_ids']):
