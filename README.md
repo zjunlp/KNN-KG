@@ -1,5 +1,5 @@
 # KNN-KG
-Code for our paper "[Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings](https://arxiv.org/pdf/2201.05575.pdf)"
+Code for our paper "Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings".
 
 Requirements
 ==========
@@ -51,14 +51,3 @@ Here we have a trained model and our knowledge store, use the command below to i
 
 And for inductive setting, the command is similar to the transductive setting (just replace the `dataset` with inductive dataset), the code will automatically handle the differences.
 
-# Citation
-If you use the code, please cite the following paper:
-
-```bibtex
-@article{zhang2022reasoning,
-  title={Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings},
-  author={Zhang, Ningyu and Xie, Xin and Chen, Xiang and Deng, Shumin and Tan, Chuanqi and Huang, Fei and Cheng, Xu and Chen, Huajun},
-  journal={arXiv preprint arXiv:2201.05575},
-  year={2022}
-}
-```
