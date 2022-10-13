@@ -1,6 +1,5 @@
 # KNN-KG
 Code for our paper "Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings".
-test
 
 Requirements
 ==========
