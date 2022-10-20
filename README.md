@@ -1,6 +1,8 @@
 # KNN-KG
 Code for our paper "Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings".
 
+<div align=center><img src="model.png" width="80%" height="80%" /></div>
+
 Requirements
 ==========
 To install requirements:
