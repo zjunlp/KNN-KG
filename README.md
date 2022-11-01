@@ -45,7 +45,7 @@ After training the model in `Entity prediction task`, we use the model to get th
 
 ## Inference
 
-Here we have a trained model and our knowledge store, use the command below to inference in the test set.
+Here we have a trained model and our knowledge store (e.g., faiss.dump file), use the command below to inference in the test set.
 
 ```shell
 ./scripts/fb15k-237/inference.sh
