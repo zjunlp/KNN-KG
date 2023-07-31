@@ -1,5 +1,5 @@
 # KNN-KG
-Code for our paper "[Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings with Language Models](https://arxiv.org/abs/2201.05575)".
+Code for the NLPCC2023 paper "[Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings with Language Models](https://arxiv.org/abs/2201.05575)".
 
 <div align=center><img src="model.png" width="80%" height="80%" /></div>
 
